@@ -89,7 +89,7 @@ pip install pyserial pandas matplotlib
   ```
 
 - **Scatter Plot**:
-  ![Scatter Plot Example](example_plot.png)
+  ![Scatter Plot Example]([example_plot.png](https://github.com/Knight6azer/Temperature-Humidiy-Analysis/blob/main/Screenshot%20(13).png))
 
 ---
 
